@@ -1,1 +1,1 @@
-my second readme is Alive
+my second readme is alive
